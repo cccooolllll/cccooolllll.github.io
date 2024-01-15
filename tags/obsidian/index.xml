@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>obsidian - 标签 - Alex&#39;s博客</title>
+        <link>https://cccooolllll.github.io/tags/obsidian/</link>
+        <description>obsidian - 标签 - Alex&#39;s博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 15 Jan 2024 11:04:38 &#43;0800</lastBuildDate><atom:link href="https://cccooolllll.github.io/tags/obsidian/" rel="self" type="application/rss+xml" /><item>
+    <title>Obsidian 合并当月日记</title>
+    <link>https://cccooolllll.github.io/posts/obsidian%E5%90%88%E5%B9%B6%E6%97%A5%E8%AE%B0/</link>
+    <pubDate>Mon, 15 Jan 2024 11:04:38 &#43;0800</pubDate><author>
+                    <name>alex</name>
+                </author><guid>https://cccooolllll.github.io/posts/obsidian%E5%90%88%E5%B9%B6%E6%97%A5%E8%AE%B0/</guid>
+    <description><![CDATA[1 ObsidianObsidian 是一款 Markdown 笔记管理工具。 我会在 Obsidian 中记录每天的日记。 1.1 日记插件Obsidian 的核心插件中可以打开「日记」功能。 将单日日记的存放位置指定为根]]></description>
+</item></channel>
+</rss>
